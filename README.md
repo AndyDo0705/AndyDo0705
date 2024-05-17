@@ -1,5 +1,4 @@
 ![Header](./github_header.png)
-<h1 align="center">Hi 👋, I'm Hoa An Do</h1>
 <h3 align="center">A passionate third-year SFU student from Vietnam</h3>
 
 - 🌱 I’m currently learning **SvelteKit, React Native**
