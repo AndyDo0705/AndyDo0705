@@ -1,7 +1,7 @@
 ![Header](./github_header.png)
 <h3 align="center">A passionate third-year SFU student from Vietnam</h3>
 
-- 🌱 I’m currently learning **SvelteKit, React Native**
+- 🌱 I’m currently learning **Svelte, React**
 
 - 📫 How to reach me **dohoaan2003@gmail.com**
 
