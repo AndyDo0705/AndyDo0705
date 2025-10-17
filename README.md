@@ -1,7 +1,7 @@
 ![Header](./github_header.png)
-<h3 align="center">A third-year SFU student from Vietnam</h3>
+<h3 align="center">A fourth-year SFU student from Vietnam</h3>
 
-- 🌱 I’m currently learning **Svelte, C#**
+- 🌱 I’m currently learning **React, C#**
 
 - 📫 How to reach me **dohoaan2003@gmail.com**
 
